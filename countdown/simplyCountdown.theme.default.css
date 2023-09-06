@@ -8,13 +8,13 @@
 .simply-countdown > .simply-section {
   width: 50px;
   height: 50px;
-  padding: 80px;
+  padding: 85px;
   display: flex;
   align-items: center;
   justify-content: center;
   float: left;
   margin: 10px;
-  background: var(--pink);
+  background: rgb(56, 72, 14);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   border-radius: 50%;
 }
